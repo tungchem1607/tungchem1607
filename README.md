@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/tungchem1607/tungchem1607/master/assets/banner.png)
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/tungchem1607/tungchem1607/main/assets/banner.png)
 
 <h2> Hey there! I'm Nguyen Thanh Tung. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
